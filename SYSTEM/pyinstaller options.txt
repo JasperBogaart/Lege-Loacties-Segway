@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="C:\\Users\\jaspe\\Envs\\lege_locaties\\empty_racking.ico" lege_locaties_segway9.py
